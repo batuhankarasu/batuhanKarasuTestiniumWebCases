@@ -1,0 +1,826 @@
+2025-10-05 00:28:34 INFO  BaseMethod:170 - Cookie kabul edildi.
+2025-10-05 00:28:34 INFO  BaseMethod:170 - Erkek kadın Secim kapatıldı.
+2025-10-05 00:28:35 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 00:28:35 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 00:28:43 INFO  BaseMethod:170 - Text girildi.
+2025-10-05 00:28:43 INFO  BaseMethod:170 - clear yapıldı.
+2025-10-05 00:28:47 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 00:28:47 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 00:28:49 INFO  BaseMethod:170 - Text girildi.
+2025-10-05 00:58:54 INFO  BaseMethod:190 - Cookie kabul edildi.
+2025-10-05 00:58:54 INFO  BaseMethod:190 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 00:58:54 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 00:58:55 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 00:58:56 INFO  BaseMethod:190 - Text girildi.
+2025-10-05 00:58:56 INFO  BaseMethod:190 - clear yapıldı.
+2025-10-05 00:59:00 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 00:59:00 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 00:59:02 INFO  BaseMethod:190 - Text girildi.
+2025-10-05 00:59:06 INFO  BaseMethod:190 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 01:10:22 INFO  BaseMethod:190 - Cookie kabul edildi.
+2025-10-05 01:10:22 INFO  BaseMethod:190 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 01:10:23 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:10:23 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 01:10:26 INFO  BaseMethod:190 - Text girildi.
+2025-10-05 01:10:26 INFO  BaseMethod:190 - clear yapıldı.
+2025-10-05 01:10:26 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:10:26 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 01:10:26 INFO  BaseMethod:190 - Text girildi.
+2025-10-05 01:10:31 INFO  BaseMethod:190 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 01:10:40 INFO  BaseMethod:190 - Random urune tıklanıldı.
+2025-10-05 01:50:38 INFO  BaseMethod:191 - Cookie kabul edildi.
+2025-10-05 01:50:38 INFO  BaseMethod:191 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 01:50:38 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:50:39 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 01:50:39 INFO  BaseMethod:191 - Text girildi.
+2025-10-05 01:50:39 INFO  BaseMethod:191 - clear yapıldı.
+2025-10-05 01:50:39 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:50:39 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 01:50:39 INFO  BaseMethod:191 - Text girildi.
+2025-10-05 01:50:42 INFO  BaseMethod:191 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 01:50:49 INFO  BaseMethod:191 - Random urune tıklanıldı.
+2025-10-05 01:50:49 INFO  BaseMethod:191 - urun detail bilgileri setlendi.
+2025-10-05 01:51:26 INFO  BaseMethod:191 - Cookie kabul edildi.
+2025-10-05 01:51:26 INFO  BaseMethod:191 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 01:51:27 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:51:27 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 01:51:27 INFO  BaseMethod:191 - Text girildi.
+2025-10-05 01:51:27 INFO  BaseMethod:191 - clear yapıldı.
+2025-10-05 01:51:27 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:51:27 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 01:51:28 INFO  BaseMethod:191 - Text girildi.
+2025-10-05 01:51:31 INFO  BaseMethod:191 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 01:51:32 INFO  BaseMethod:191 - Random urune tıklanıldı.
+2025-10-05 01:51:32 INFO  BaseMethod:191 - urun detail bilgileri setlendi.
+2025-10-05 01:51:46 INFO  BaseMethod:191 - Random bedene tıklanıldı.
+2025-10-05 01:51:46 INFO  BaseMethod:191 - Baskete eklendi.
+2025-10-05 01:51:47 INFO  BaseMethod:191 - sepet menusune tıklanıldı.
+2025-10-05 01:52:34 INFO  BaseMethod:191 - Cookie kabul edildi.
+2025-10-05 01:52:34 INFO  BaseMethod:191 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 01:52:34 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:52:35 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 01:52:35 INFO  BaseMethod:191 - Text girildi.
+2025-10-05 01:52:35 INFO  BaseMethod:191 - clear yapıldı.
+2025-10-05 01:52:35 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:52:35 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 01:52:35 INFO  BaseMethod:191 - Text girildi.
+2025-10-05 01:52:38 INFO  BaseMethod:191 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 01:52:39 INFO  BaseMethod:191 - Random urune tıklanıldı.
+2025-10-05 01:52:40 INFO  BaseMethod:191 - urun detail bilgileri setlendi.
+2025-10-05 01:54:18 INFO  BaseMethod:195 - Cookie kabul edildi.
+2025-10-05 01:54:18 INFO  BaseMethod:195 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 01:54:19 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:54:19 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 01:54:19 INFO  BaseMethod:195 - Text girildi.
+2025-10-05 01:54:19 INFO  BaseMethod:195 - clear yapıldı.
+2025-10-05 01:54:19 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 01:54:19 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 01:54:19 INFO  BaseMethod:195 - Text girildi.
+2025-10-05 01:54:24 INFO  BaseMethod:195 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 01:54:26 INFO  BaseMethod:195 - Random urune tıklanıldı.
+2025-10-05 01:54:26 INFO  BaseMethod:195 - urun detail bilgileri setlendi.
+2025-10-05 01:54:26 INFO  BaseMethod:195 - Random bedene tıklanıldı.
+2025-10-05 01:54:26 INFO  BaseMethod:195 - Baskete eklendi.
+2025-10-05 01:54:27 INFO  BaseMethod:195 - sepet menusune tıklanıldı.
+2025-10-05 02:52:31 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 02:52:32 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 02:52:32 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:52:32 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 02:52:32 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:52:32 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 02:52:32 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:52:32 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 02:52:32 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:52:50 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 02:52:50 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 02:52:50 ERROR BaseMethod:227 - Elementin text değeri alınamadı: -> no such element: Unable to locate element: {"method":"css selector","selector":".o-productDetail__brandLink"}
+  (Session info: chrome=140.0.7339.208)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [82d3fe8671ae00746130453211c729f5, findElement {value=.o-productDetail__brandLink, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51195}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51195/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 82d3fe8671ae00746130453211c729f5
+2025-10-05 02:52:56 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 02:52:56 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 02:52:56 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:52:57 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 02:52:57 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:52:57 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 02:52:57 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:52:57 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 02:52:57 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:52:59 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 02:53:01 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 02:53:01 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 02:53:01 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 02:53:01 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 02:53:02 INFO  BaseMethod:232 - sepet menusune tıklanıldı.
+2025-10-05 02:53:02 ERROR BaseMethod:227 - Elementin text değeri alınamadı: -> no such element: Unable to locate element: {"method":"css selector","selector":".priceBox__salePrice"}
+  (Session info: chrome=140.0.7339.208)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f7e4af6bd3e8b9f127d521b40e5a749b, findElement {using=css selector, value=.priceBox__salePrice}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51316}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51316/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f7e4af6bd3e8b9f127d521b40e5a749b
+2025-10-05 02:53:37 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 02:53:37 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 02:53:38 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:53:38 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 02:53:38 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:53:38 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 02:53:38 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:53:38 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 02:53:38 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:53:41 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 02:53:42 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 02:53:42 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 02:53:50 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 02:53:50 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 02:53:51 INFO  BaseMethod:232 - sepet menusune tıklanıldı.
+2025-10-05 02:56:15 ERROR BaseMethod:227 - Elementin text değeri alınamadı: -> no such element: Unable to locate element: {"method":"css selector","selector":".priceBox__salePrice"}
+  (Session info: chrome=140.0.7339.208)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dfa04dd1249df004f18b3920c0d90f65, findElement {value=.priceBox__salePrice, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51486}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51486/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dfa04dd1249df004f18b3920c0d90f65
+2025-10-05 02:58:02 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 02:58:02 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 02:58:03 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:58:03 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 02:58:03 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:58:03 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 02:58:03 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:58:03 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 02:58:03 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:58:06 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 02:58:07 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 02:58:07 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 02:58:17 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 02:58:17 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 02:58:17 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:58:18 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 02:58:18 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:58:18 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 02:58:18 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:58:18 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 02:58:18 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:58:21 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 02:58:22 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 02:58:22 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 02:58:22 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 02:58:22 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 02:58:24 ERROR BaseMethod:227 - Elemente tıklanamadı: element click intercepted: Element <a href="/tr/cart" title="Sepetim" rel="nofollow" class="o-header__userInfo--item bwi-cart-o -cart">...</a> is not clickable at point (1357, 80). Other element would receive the click: <div class="m-notification__content">...</div>
+  (Session info: chrome=140.0.7339.208)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [25d505ed463eb47e46560fb7d31c3dff, clickElement {id=f.71C843EC8E8960256BEDE9AEDACEFAC8.d.88D2D228E9E52FEE07E67908E0961E81.e.180}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52119}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52119/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (25d505ed463eb47e46560fb7d31c3dff)] -> css selector: [title='Sepetim']]
+Session ID: 25d505ed463eb47e46560fb7d31c3dff
+2025-10-05 02:59:33 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 02:59:34 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 02:59:34 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:59:34 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 02:59:35 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:59:35 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 02:59:35 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:59:35 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 02:59:35 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:59:37 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 02:59:39 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 02:59:39 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 02:59:46 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 02:59:46 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 02:59:47 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:59:47 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 02:59:47 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:59:47 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 02:59:47 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 02:59:47 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 02:59:47 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 02:59:50 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 02:59:52 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 02:59:52 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 02:59:52 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 02:59:52 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 02:59:54 ERROR BaseMethod:227 - Elemente tıklanamadı: element click intercepted: Element <a href="/tr/cart" title="Sepetim" rel="nofollow" class="o-header__userInfo--item bwi-cart-o -cart">...</a> is not clickable at point (1357, 80). Other element would receive the click: <div class="m-notification__content">...</div>
+  (Session info: chrome=140.0.7339.208)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8a9a6500da5b82d171d30dc09f9ff1c, clickElement {id=f.55969F051C748D593EA5B0EC08A6D5F6.d.18501F35CC0F6DCCE5DC5F157A8D6B28.e.179}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52475/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f8a9a6500da5b82d171d30dc09f9ff1c)] -> css selector: [title='Sepetim']]
+Session ID: f8a9a6500da5b82d171d30dc09f9ff1c
+2025-10-05 03:00:34 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 03:00:34 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 03:00:35 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:00:35 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:00:35 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:00:35 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 03:00:35 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:00:35 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:00:35 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:00:38 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:00:39 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 03:00:39 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 03:00:57 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 03:00:57 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 03:00:58 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:00:58 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:00:58 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:00:58 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 03:00:58 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:00:58 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:00:58 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:01:01 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:01:02 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 03:01:02 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 03:01:02 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 03:01:02 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 03:01:04 ERROR BaseMethod:227 - Elemente tıklanamadı: element click intercepted: Element <a href="/tr/cart" title="Sepetim" rel="nofollow" class="o-header__userInfo--item bwi-cart-o -cart">...</a> is not clickable at point (1349, 80). Other element would receive the click: <div class="m-notification__content">...</div>
+  (Session info: chrome=140.0.7339.208)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27b99e2e1d34a501221561b6ac372e0a, clickElement {id=f.D25E2C1519F6E740D333C391A3D4F5B5.d.CE75445688096D2CB7CCE711F63B3FFF.e.181}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52822}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52822/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (27b99e2e1d34a501221561b6ac372e0a)] -> css selector: [title='Sepetim']]
+Session ID: 27b99e2e1d34a501221561b6ac372e0a
+2025-10-05 03:01:52 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 03:01:52 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 03:01:53 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:01:53 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:01:53 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:01:53 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 03:01:53 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:01:53 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:01:53 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:01:56 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:01:57 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 03:01:57 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 03:01:57 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 03:01:57 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 03:02:02 ERROR BaseMethod:227 - Elemente tıklanamadı: element click intercepted: Element <a href="/tr/cart" title="Sepetim" rel="nofollow" class="o-header__userInfo--item bwi-cart-o -cart">...</a> is not clickable at point (1349, 80). Other element would receive the click: <div class="m-notification__content">...</div>
+  (Session info: chrome=140.0.7339.208)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8812145db91a8a53fe3716eb608890ab, clickElement {id=f.167E4C6BE2B7E451899E7BAB25E16702.d.39504D975EB2CE9773974BC8F16A2BCC.e.177}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53025}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53025/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (8812145db91a8a53fe3716eb608890ab)] -> css selector: [title='Sepetim']]
+Session ID: 8812145db91a8a53fe3716eb608890ab
+2025-10-05 03:02:14 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 03:02:14 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 03:02:15 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:02:15 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:02:15 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:02:15 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 03:02:15 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:02:15 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:02:15 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:02:18 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:02:19 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 03:02:19 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 03:02:19 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 03:02:20 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 03:02:32 INFO  BaseMethod:232 - sepet menusune tıklanıldı.
+2025-10-05 03:02:35 INFO  BaseMethod:232 - Sepet price kontrolu yapıldı.
+2025-10-05 03:02:35 INFO  BaseMethod:232 -  Dropdown seçimi başarılı → 2
+2025-10-05 03:02:35 INFO  BaseMethod:232 - secım yapıldı
+2025-10-05 03:02:55 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 03:02:55 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 03:02:55 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:02:56 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:02:56 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:02:56 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 03:02:56 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:02:56 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:02:56 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:03:27 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:03:28 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 03:03:28 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 03:03:40 INFO  BaseMethod:232 - Cookie kabul edildi.
+2025-10-05 03:03:41 INFO  BaseMethod:232 - Erkek kadÄ±n Secim kapatÄ±ldÄ±.
+2025-10-05 03:03:41 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:03:42 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:03:42 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:03:42 INFO  BaseMethod:232 - clear yapıldı.
+2025-10-05 03:03:42 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:03:42 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:03:42 INFO  BaseMethod:232 - Text girildi.
+2025-10-05 03:03:45 INFO  BaseMethod:232 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:03:46 INFO  BaseMethod:232 - Random urune tıklanıldı.
+2025-10-05 03:03:46 INFO  BaseMethod:232 - urun detail bilgileri setlendi.
+2025-10-05 03:03:53 INFO  BaseMethod:232 - Random bedene tıklanıldı.
+2025-10-05 03:03:54 INFO  BaseMethod:232 - Baskete eklendi.
+2025-10-05 03:04:01 INFO  BaseMethod:232 - sepet menusune tıklanıldı.
+2025-10-05 03:04:03 INFO  BaseMethod:232 - Sepet price kontrolu yapıldı.
+2025-10-05 03:04:03 INFO  BaseMethod:232 -  Dropdown seçimi başarılı → 2
+2025-10-05 03:04:03 INFO  BaseMethod:232 - secım yapıldı
+2025-10-05 03:38:35 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:38:35 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:38:35 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:38:35 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:38:36 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:38:36 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:38:36 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:38:36 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:38:36 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:38:36 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:38:38 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:38:40 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:38:40 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:38:40 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 03:38:40 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 03:39:09 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:39:09 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:39:09 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:39:09 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:39:10 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:39:10 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:39:10 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:39:10 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:39:10 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:39:10 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:39:13 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:39:14 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:39:14 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:41:23 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:41:23 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:41:24 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:41:24 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:41:24 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:41:24 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:41:24 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:41:24 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:41:24 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:41:24 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:41:27 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:41:28 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:41:28 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:41:28 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 03:41:29 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 03:41:29 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 03:41:30 ERROR BaseMethod:223 - Element could not be clicked: element click intercepted: Element <a href="/tr/cart" title="Sepetim" rel="nofollow" class="o-header__userInfo--item bwi-cart-o -cart">...</a> is not clickable at point (1349, 80). Other element would receive the click: <div class="m-notification__content">...</div>
+  (Session info: chrome=140.0.7339.208)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d4460c78f93412194c0bdc044b159539, clickElement {id=f.6B771318CCFAE706EA4F043BAC6F856D.d.9810A3D514933D4846D6E72F71E053AB.e.190}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56666}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56666/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d4460c78f93412194c0bdc044b159539)] -> css selector: [title='Sepetim']]
+Session ID: d4460c78f93412194c0bdc044b159539
+2025-10-05 03:41:51 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:41:51 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:41:51 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:41:51 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:41:52 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:41:52 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:41:52 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:41:52 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:41:52 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:41:52 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:42:04 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:42:05 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:42:05 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:42:09 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 03:42:10 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 03:42:10 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 03:43:32 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:43:32 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:43:33 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:43:33 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:43:33 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:43:33 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:43:33 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:43:33 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:43:33 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:43:33 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:43:39 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:43:41 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:43:41 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:43:41 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 03:43:41 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 03:43:46 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 03:44:07 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x000002439a3c5668@2d64160c (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51204}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51204/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7faca7bfb5393601874773f8042258b5
+2025-10-05 03:44:07 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 03:44:07 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 03:44:08 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 03:44:08 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 03:44:28 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x000002439a3c5668@19e0dffe (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51204}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51204/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7faca7bfb5393601874773f8042258b5
+2025-10-05 03:44:28 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 03:45:22 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:45:22 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:45:22 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:45:22 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:45:23 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:45:23 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:45:23 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:45:23 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:45:23 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:45:23 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:45:50 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:45:52 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:45:53 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:45:53 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 03:45:53 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 03:45:59 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 03:46:20 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x000001f3813c5858@340a8894 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51689/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7da539ba93d7942c44d77249f2da2b05
+2025-10-05 03:46:20 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 03:46:20 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 03:46:20 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 03:46:20 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 03:46:40 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x000001f3813c5858@3468ee6e (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51689}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51689/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7da539ba93d7942c44d77249f2da2b05
+2025-10-05 03:46:40 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 03:48:30 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:48:30 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:48:30 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:48:30 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:48:31 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:48:31 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:48:31 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:48:31 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:48:31 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:48:31 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:48:34 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:48:36 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:48:36 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:48:36 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 03:48:36 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 03:48:42 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 03:49:03 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x00000136013c5858@340a8894 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52246/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 760a46320ff3b77564d3ec0c835854d0
+2025-10-05 03:49:03 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 03:49:03 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 03:49:03 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 03:49:03 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 03:49:24 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x00000136013c5858@3468ee6e (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52246}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52246/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 760a46320ff3b77564d3ec0c835854d0
+2025-10-05 03:49:24 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 03:49:24 INFO  BaseMethod:228 - Empty basket verification completed.
+2025-10-05 03:49:33 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 03:49:34 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 03:49:34 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 03:49:34 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:49:34 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:49:34 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 03:49:35 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 03:49:35 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:49:35 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:49:35 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 03:49:37 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:49:39 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 03:49:39 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 03:49:40 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 03:49:40 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 03:49:45 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 03:49:46 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 03:49:46 ERROR BaseMethod:223 - Failed to get the element's text: no such element: Unable to locate element: {"method":"css selector","selector":".priceBox__salePrice"}
+  (Session info: chrome=140.0.7339.208)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [707e0bf93ad0f81766f733415e01d442, findElement {value=.priceBox__salePrice, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52548}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52548/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 707e0bf93ad0f81766f733415e01d442
+2025-10-05 03:51:25 INFO  BaseMethod:234 - Cookie has been accepted.
+2025-10-05 03:51:25 INFO  BaseMethod:234 - Gender selection popup has been closed.
+2025-10-05 03:51:26 INFO  BaseMethod:234 - Search box opened.
+2025-10-05 03:51:26 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:51:26 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:51:26 INFO  BaseMethod:234 - şortText has been entered into the search box.
+2025-10-05 03:51:26 INFO  BaseMethod:234 - Search box has been cleared.
+2025-10-05 03:51:26 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:51:26 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:51:26 INFO  BaseMethod:234 - gömlekText has been entered into the search box.
+2025-10-05 03:51:29 INFO  BaseMethod:234 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:51:30 INFO  BaseMethod:234 - Clicked on a random product.
+2025-10-05 03:51:30 INFO  BaseMethod:234 - Product detail information has been set.
+2025-10-05 03:51:30 INFO  BaseMethod:234 - Clicked on a random size.
+2025-10-05 03:51:31 INFO  BaseMethod:234 - Added to the cart.
+2025-10-05 03:51:36 INFO  BaseMethod:234 - Add to basket notification button verification completed.
+2025-10-05 03:51:37 INFO  BaseMethod:234 - Clicked on the basket menu.
+2025-10-05 03:51:38 INFO  BaseMethod:234 - The price of the product added to the cart has been verified.
+2025-10-05 03:51:38 INFO  BaseMethod:234 - Product quantity selection has been made. Select value : 2
+2025-10-05 03:51:38 INFO  BaseMethod:234 - Product basket quantity verification completed.
+2025-10-05 03:51:58 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x0000015b813c51b0@48904d5a (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52888/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bf5c4e721042898787129ed4a605cf1b
+2025-10-05 03:51:58 INFO  BaseMethod:234 - The product has been removed from the basket.
+2025-10-05 03:51:58 INFO  BaseMethod:234 - Empty basket verification completed.
+2025-10-05 03:53:14 INFO  BaseMethod:234 - Cookie has been accepted.
+2025-10-05 03:53:15 INFO  BaseMethod:234 - Gender selection popup has been closed.
+2025-10-05 03:53:15 INFO  BaseMethod:234 - Search box opened.
+2025-10-05 03:53:15 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:53:15 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:53:15 INFO  BaseMethod:234 - şortText has been entered into the search box.
+2025-10-05 03:53:16 INFO  BaseMethod:234 - Search box has been cleared.
+2025-10-05 03:53:16 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:53:16 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:53:16 INFO  BaseMethod:234 - gömlekText has been entered into the search box.
+2025-10-05 03:53:18 INFO  BaseMethod:234 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:53:20 INFO  BaseMethod:234 - Clicked on a random product.
+2025-10-05 03:53:20 INFO  BaseMethod:234 - Product detail information has been set.
+2025-10-05 03:53:22 ERROR BaseMethod:229 - Element could not be clicked: element click intercepted: Element <span class="m-variation__item">...</span> is not clickable at point (1203, 381). Other element would receive the click: <div data-subnav="" data-parent-id="95939" class="m-subNav m-subNav6 -active">...</div>
+  (Session info: chrome=140.0.7339.208)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6f0f3ab2f01420bf40c9036efed7b9c6, clickElement {id=f.8748D7AE583A212B1E5B21DE052B9631.d.BC0CA85330795C3E8406B89AFE10EE6D.e.181}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53218}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53218/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (6f0f3ab2f01420bf40c9036efed7b9c6)] -> xpath: //span[@class='m-variation__item' or @class='m-variation__item -active -criticalStock']]
+Session ID: 6f0f3ab2f01420bf40c9036efed7b9c6
+2025-10-05 03:53:48 INFO  BaseMethod:234 - Cookie has been accepted.
+2025-10-05 03:53:48 INFO  BaseMethod:234 - Gender selection popup has been closed.
+2025-10-05 03:53:48 INFO  BaseMethod:234 - Search box opened.
+2025-10-05 03:53:48 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:53:49 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:53:49 INFO  BaseMethod:234 - şortText has been entered into the search box.
+2025-10-05 03:53:49 INFO  BaseMethod:234 - Search box has been cleared.
+2025-10-05 03:53:49 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:53:49 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:53:49 INFO  BaseMethod:234 - gömlekText has been entered into the search box.
+2025-10-05 03:53:52 INFO  BaseMethod:234 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:53:53 INFO  BaseMethod:234 - Clicked on a random product.
+2025-10-05 03:53:53 INFO  BaseMethod:234 - Product detail information has been set.
+2025-10-05 03:53:53 INFO  BaseMethod:234 - Clicked on a random size.
+2025-10-05 03:53:54 INFO  BaseMethod:234 - Added to the cart.
+2025-10-05 03:53:59 INFO  BaseMethod:234 - Add to basket notification button verification completed.
+2025-10-05 03:53:59 INFO  BaseMethod:234 - Clicked on the basket menu.
+2025-10-05 03:54:01 INFO  BaseMethod:234 - The price of the product added to the cart has been verified.
+2025-10-05 03:54:01 INFO  BaseMethod:234 - Product quantity selection has been made. Select value : 2
+2025-10-05 03:54:01 INFO  BaseMethod:234 - Product basket quantity verification completed.
+2025-10-05 03:54:21 ERROR BaseMethod:122 - TimeoutException: Expected condition failed: waiting for com.batuhanTestiniumWebCases.automation.base.BaseMethod$$Lambda$1007/0x00000232013c5858@423c5404 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53398/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de4903289a0e036cba19995bab071e7c
+2025-10-05 03:54:21 INFO  BaseMethod:234 - The product has been removed from the basket.
+2025-10-05 03:54:21 INFO  BaseMethod:234 - Empty basket verification completed.
+2025-10-05 03:57:36 INFO  BaseMethod:234 - Cookie has been accepted.
+2025-10-05 03:57:37 INFO  BaseMethod:234 - Gender selection popup has been closed.
+2025-10-05 03:57:37 INFO  BaseMethod:234 - Search box opened.
+2025-10-05 03:57:37 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:57:37 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 03:57:38 INFO  BaseMethod:234 - şortText has been entered into the search box.
+2025-10-05 03:57:38 INFO  BaseMethod:234 - Search box has been cleared.
+2025-10-05 03:57:38 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 03:57:38 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 03:57:38 INFO  BaseMethod:234 - gömlekText has been entered into the search box.
+2025-10-05 03:57:40 INFO  BaseMethod:234 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 03:57:41 INFO  BaseMethod:234 - Clicked on a random product.
+2025-10-05 03:57:42 INFO  BaseMethod:234 - Product detail information has been set.
+2025-10-05 03:57:42 INFO  BaseMethod:234 - Clicked on a random size.
+2025-10-05 03:57:42 INFO  BaseMethod:234 - Added to the cart.
+2025-10-05 03:57:48 INFO  BaseMethod:234 - Add to basket notification button verification completed.
+2025-10-05 03:57:49 INFO  BaseMethod:234 - Clicked on the basket menu.
+2025-10-05 03:57:49 INFO  BaseMethod:234 - The price of the product added to the cart has been verified.
+2025-10-05 03:57:49 INFO  BaseMethod:234 - Product quantity selection has been made. Select value : 2
+2025-10-05 03:57:50 INFO  BaseMethod:234 - Product basket quantity verification completed.
+2025-10-05 03:57:50 INFO  BaseMethod:234 - The product has been removed from the basket.
+2025-10-05 03:57:50 INFO  BaseMethod:234 - Empty basket verification completed.
+2025-10-05 04:10:30 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 04:10:30 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 04:10:31 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 04:10:31 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 04:10:31 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 04:10:31 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 04:10:31 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 04:10:31 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 04:10:31 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 04:10:31 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 04:10:35 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 04:10:36 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 04:10:36 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 04:10:36 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 04:10:37 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 04:10:42 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 04:10:43 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 04:10:43 ERROR BaseMethod:223 - Failed to get the element's text : no such element: Unable to locate element: {"method":"css selector","selector":".priceBox__salePrice"}
+  (Session info: chrome=140.0.7339.208)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f3f25a841bfb5890a4d7f43f7c2fa38e, findElement {using=css selector, value=.priceBox__salePrice}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.208, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\volkan\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54737}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54737/devtoo..., se:cdpVersion: 140.0.7339.208, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3f25a841bfb5890a4d7f43f7c2fa38e
+2025-10-05 04:11:17 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 04:11:17 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 04:11:18 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 04:11:18 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 04:11:18 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 04:11:18 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 04:11:18 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 04:11:18 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 04:11:18 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 04:11:18 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 04:11:21 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 04:11:23 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 04:11:23 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 04:11:23 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 04:11:23 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 04:11:28 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 04:11:29 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 04:11:30 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 04:11:30 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 04:11:30 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 04:11:31 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 04:11:31 INFO  BaseMethod:228 - Empty basket verification completed.
+2025-10-05 14:26:00 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:26:01 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:26:01 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:26:01 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:26:01 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:26:01 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:26:01 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:26:01 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:26:01 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:26:02 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:26:03 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 14:26:05 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 14:26:05 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 14:26:05 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 14:26:05 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 14:26:11 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 14:26:11 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 14:26:13 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 14:26:13 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 14:26:13 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 14:26:13 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 14:26:13 INFO  BaseMethod:228 - Empty basket verification completed.
+2025-10-05 14:26:26 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:26:26 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:26:26 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:26:26 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:26:27 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:26:27 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:26:27 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:26:27 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:26:27 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:26:27 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:26:30 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 14:26:32 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 14:26:32 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 14:26:32 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 14:26:32 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 14:26:38 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 14:26:39 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 14:26:40 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 14:26:40 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 14:26:40 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 14:26:40 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 14:26:40 INFO  BaseMethod:228 - Empty basket verification completed.
+2025-10-05 14:27:08 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:27:08 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:27:09 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:27:09 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:27:09 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:27:09 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:27:09 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:27:09 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:27:09 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:27:09 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:28:48 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:28:48 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:28:49 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:28:49 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:28:49 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:28:49 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:28:49 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:28:49 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:28:49 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:28:49 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:28:51 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 14:28:53 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 14:28:53 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 14:28:53 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 14:28:53 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 14:28:59 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 14:29:00 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 14:29:01 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 14:29:01 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 14:29:01 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 14:29:01 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 14:29:02 INFO  BaseMethod:228 - Empty basket verification completed.
+2025-10-05 14:29:17 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:29:17 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:29:18 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:29:18 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:29:18 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:29:18 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:29:18 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:29:18 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:29:18 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:29:18 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:29:26 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 14:29:28 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 14:29:28 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 14:29:29 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 14:29:29 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 14:29:34 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 14:29:35 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 14:29:36 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 14:29:36 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 14:29:36 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 14:29:36 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 14:29:37 INFO  BaseMethod:228 - Empty basket verification completed.
+2025-10-05 14:30:14 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:30:14 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:30:15 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:30:15 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:30:15 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:30:15 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:30:15 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:30:15 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:30:15 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:30:15 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:30:18 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 14:30:19 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 14:30:19 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 14:30:43 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:30:43 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:30:44 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:30:44 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:30:44 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:30:44 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:30:44 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:30:44 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:30:44 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:30:44 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:30:47 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 14:30:49 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 14:30:49 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 14:30:49 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 14:30:49 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 14:30:54 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 14:30:56 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 14:30:57 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 14:30:57 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 14:30:57 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 14:30:57 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 14:30:57 INFO  BaseMethod:228 - Empty basket verification completed.
+2025-10-05 14:37:52 INFO  BaseMethod:228 - Cookie has been accepted.
+2025-10-05 14:37:53 INFO  BaseMethod:228 - Gender selection popup has been closed.
+2025-10-05 14:37:53 INFO  BaseMethod:228 - Search box opened.
+2025-10-05 14:37:53 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:37:53 INFO  ExcelUtils:31 - Read value 'şort' from searchData.xlsx (sheet:0, R0C0)
+2025-10-05 14:37:53 INFO  BaseMethod:228 - şortText has been entered into the search box.
+2025-10-05 14:37:53 INFO  BaseMethod:228 - Search box has been cleared.
+2025-10-05 14:37:53 INFO  ExcelUtils:15 - Trying to read Excel file from classpath: searchData.xlsx
+2025-10-05 14:37:54 INFO  ExcelUtils:31 - Read value 'gömlek' from searchData.xlsx (sheet:0, R1C0)
+2025-10-05 14:37:54 INFO  BaseMethod:228 - gömlekText has been entered into the search box.
+2025-10-05 14:38:27 INFO  BaseMethod:228 - sepet aratılan text kontrolu yapıldı.
+2025-10-05 14:38:29 INFO  BaseMethod:228 - Clicked on a random product.
+2025-10-05 14:38:29 INFO  BaseMethod:228 - Product detail information has been set.
+2025-10-05 14:38:29 INFO  BaseMethod:228 - Clicked on a random size.
+2025-10-05 14:38:29 INFO  BaseMethod:228 - Added to the cart.
+2025-10-05 14:38:34 INFO  BaseMethod:228 - Add to basket notification button verification completed.
+2025-10-05 14:38:35 INFO  BaseMethod:228 - Clicked on the basket menu.
+2025-10-05 14:38:36 INFO  BaseMethod:228 - The price of the product added to the cart has been verified.
+2025-10-05 14:38:36 INFO  BaseMethod:228 - Product quantity selection has been made. Select value : 2
+2025-10-05 14:38:36 INFO  BaseMethod:228 - Product basket quantity verification completed.
+2025-10-05 14:38:37 INFO  BaseMethod:228 - The product has been removed from the basket.
+2025-10-05 14:38:37 INFO  BaseMethod:228 - Empty basket verification completed.
